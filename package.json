@@ -15,8 +15,6 @@
     "@strapi/plugin-i18n": "4.25.10",
     "@strapi/plugin-users-permissions": "4.25.10",
     "@strapi/strapi": "4.25.10",
-    "@swc/core-win32-x64-msvc": "1.7.23",
-    "@swc/core-linux-x64-gnu": "1.7.23",
     "ajv-draft-04": "^1.0.0",
     "better-sqlite3": "8.6.0",
     "react": "^18.0.0",
