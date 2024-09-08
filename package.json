@@ -11,17 +11,17 @@
     "deploy": "strapi deploy"
   },
   "dependencies": {
-    "@strapi/plugin-cloud": "4.25.10",
-    "@strapi/plugin-i18n": "4.25.10",
-    "@strapi/plugin-users-permissions": "4.25.10",
-    "@swc/core-win32-x64-msvc": "1.7.23",
-    "@swc/core-linux-x64-gnu": "1.7.23",
-    "@strapi/strapi": "4.25.10",
-    "ajv-draft-04": "^1.0.0",
+    "@strapi/plugin-cloud": "4.25.8",
+    "@strapi/plugin-i18n": "4.25.8",
+    "@strapi/plugin-users-permissions": "4.25.8",
+    "@strapi/strapi": "4.25.8",
+    "ajv": "^8.17.1",
     "better-sqlite3": "8.6.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
+    "strapi-plugin-cloudflare-pages": "^0.5.0",
+    "strapi-plugin-vercel-deploy": "^1.4.0",
     "styled-components": "5.3.3"
   },
   "author": {
